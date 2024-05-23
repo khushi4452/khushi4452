@@ -13,6 +13,7 @@
  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/js.png" alt="mysql" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/react-native.png" alt="mysql" width="40" height="40"/> </a>
  <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
 
