@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Khushi khan</h1>
 
 [![Hits](https://hits.sh/github.com/skylar69-wtf.svg?style=for-the-badge&label=Profile-Visitors&logo=bugatti)](https://hits.sh/github.com/skylar69-wtf.svg)
 </br>
