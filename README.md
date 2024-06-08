@@ -51,7 +51,7 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;"/>
 
-   ![image](https://github.com/khushi4452/khushi4452/assets/147485713/93ec0402-a509-4494-8f16-bc6059374f2a)
+
 
   </a>
 </p>
