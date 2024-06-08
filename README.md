@@ -33,8 +33,9 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px;"/>
   </a>  
+	
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>  
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px;"/>
