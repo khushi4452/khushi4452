@@ -51,9 +51,7 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" style="margin: 10px;"/>
-  </a>
+
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 10px;"/>
   </a>
