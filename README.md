@@ -33,9 +33,8 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px;"/>
   </a>  
-	
   <a href="https://www.javascript.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>  
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px;"/>
@@ -51,9 +50,12 @@
   </a>  
   <a href="https://www.python.org/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;"/>
-
-
-
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 10px;"/>
   </a>
 </p>
 
