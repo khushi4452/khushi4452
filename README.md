@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushi4452&label=Profile%20views&color=0e75b6&style=flat" alt="Khushi4452" /> </p>
 
-- 🌱 I’m currently learning **FullStack Development**
+- 🌱 I’m currently learning **FullStack  Web Development**
 
 - 💬 Ask me About **Javascript , React.js**
 
