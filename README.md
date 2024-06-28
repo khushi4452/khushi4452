@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **FullStack  Web Development**
 
-- 💬 Ask me About **Javascript , React.js**
+- 💬 Ask me About **Javascript , React.js**.
 
-- 📫 How to reach me **KhanKhushi4452@gmail.com**
+- 📫 How to reach me  **KhanKhushi4452@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
