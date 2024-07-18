@@ -57,10 +57,6 @@
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 10px;"/>
   </a>
-
-   <a href="https://Tailwind css.com/" target="_blank">
- <img src=" https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
-   </a>
 </p>
 
 
