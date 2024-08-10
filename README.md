@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Khushi khan</h1>
+<h1 align="center">Hi 👋, I'm Mushrat Khan</h1>
 
 
 
