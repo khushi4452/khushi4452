@@ -65,7 +65,7 @@ class WhoAmI:
    	current_edu = "Shri Ramdeobaba College of Engineering"
    	Current = [
    			
-   			'c++ Developer',
+   			'Java Developer',
    			'Web Developer'
                         
    			'Being up all Night chasing that ONE BUG...'
