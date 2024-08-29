@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushi4452&label=Profile%20views&color=0e75b6&style=flat" alt="Khushi4452" /> </p>
 
-- 🌱 I’m currently  Focused on learning **React Native**
+- 🌱 I’m currently  focused on learning **React Native**
 
 - 💬 Ask me About **Javascript , React.js**.
 
