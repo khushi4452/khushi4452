@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Mushrat Khan</h1>
+<h1 align="center">Hi 👋, I'm Musrat Khan</h1>
 <h3 align="center">Student | A passionate Mern developer from India</h3>
 
 
@@ -55,11 +55,15 @@
 
 <!-- Hosting/SaaS -->
 #### ☁️ Hosting/SaaS:
-<div>
+
+  <div>
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</div>
+
      
  
-</div>
+
 
 
 
@@ -71,7 +75,7 @@
 ## ☣ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 ```python
 class WhoAmI:
-	user = 'khushi khan'
+	user = 'Musrat khan'
    	current_edu = "Shri Ramdeobaba College of Engineering"
    	Current = [
    			
