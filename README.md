@@ -57,11 +57,12 @@
 #### ☁️ Hosting/SaaS:
 
   <div>
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+ <div>
+  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7"/>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
- ![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <img alt="Postman" src="https://img.shields.io/badge/postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23F05032"/>
+</div>
 
 
 </div>
