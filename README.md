@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Musrat Khan</h1>
-<h3 align="center">Student | A passionate Mern developer from India</h3>
+<h3 align="center">Student || A passionate Mern developer from India</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushi4452&label=Profile%20views&color=0e75b6&style=flat" alt="Khushi4452" /> </p>
 
-- 🌱 I’m currently  focused on learning **React Native**
+- 🌱 I’m currently  focused on learning **React Native** .
 
 - 💬 Ask me About **Javascript , React.js**.
 
