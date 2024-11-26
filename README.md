@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hii 👋, I'm Musrat Khan</h1>
-<h3 align="center">Student || A passionate Mern developer from India</h3>
+<h1 align="center">Hi👋, I'm Musrat Khan</h1>
+<h3 align="center">Student | A passionate Mern developer from India</h3>
 
 
 
