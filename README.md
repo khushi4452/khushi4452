@@ -11,7 +11,7 @@
 
 - 💬 Ask me About **Javascript , React.js**.
 
-- 📫 How to reach me  **KhanKhushi4452@gmail.com**
+- 📫 How to reach me  **KhanKhushi4452@gmail.com**.
   
 - ✨ Being a fresher seeking continous opportunities for open source contributions
 
