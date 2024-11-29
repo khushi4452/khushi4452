@@ -13,7 +13,7 @@
 
 - 📫 How to reach me  **KhanKhushi4452@gmail.com**.
   
-- ✨ Being a fresher seeking continous opportunities for open source contributions
+- ✨ Being a fresher seeking continous opportunities for open source contributions .
 
 
 <h3 align="left">Connect with me:</h3>
