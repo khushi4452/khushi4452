@@ -1,10 +1,5 @@
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Musrat khan"
-    alt="Musrat khan"
-  />
-</p>
+
 <h1 align="center">Hi👋, I'm Musrat Khan</h1>
 <h3 align="center">Student | A passionate Mern developer from India</h3>
 
